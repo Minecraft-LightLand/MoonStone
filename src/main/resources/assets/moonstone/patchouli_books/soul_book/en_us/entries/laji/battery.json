@@ -1,0 +1,23 @@
+{
+  "name": "电池",
+  "icon": "moonstone:battery",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "super por max 电容器 "
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:battery",
+      "title": "-红色的电池-",
+      "text": "发现于地牢，矿井，概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "它蕴含着无限的能量，由红石打造，并注入了大量的魔法元素。"
+    }
+  ]
+}

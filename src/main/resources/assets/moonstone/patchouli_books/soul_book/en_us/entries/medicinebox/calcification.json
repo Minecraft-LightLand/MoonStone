@@ -1,0 +1,19 @@
+{
+  "name": "药物 - 皮肤质钙化",
+  "icon": "moonstone:calcification",
+  "category": "moonstone:medicinebox",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "使实验者的内分泌系统变异导致其部分皮肤硬化乃至钙化，增强实验者的战斗优势"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:calcification",
+      "title": "-皮肤质钙化-",
+      "text": "佩戴医药箱并受到350次击打"
+    }
+  ]
+}

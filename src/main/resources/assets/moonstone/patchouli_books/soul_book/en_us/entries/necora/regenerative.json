@@ -1,0 +1,19 @@
+{
+  "name": "再生活性化",
+  "icon": "moonstone:regenerative",
+  "category": "moonstone:necora",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Putrefactive"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:regenerative",
+      "title": "-再生活性化-",
+      "text": "佩戴Necora病毒后，开启地牢的箱子有10%的概率获取"
+    }
+  ]
+}

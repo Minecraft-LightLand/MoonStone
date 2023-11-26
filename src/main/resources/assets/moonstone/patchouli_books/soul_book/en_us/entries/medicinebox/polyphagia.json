@@ -1,0 +1,19 @@
+{
+  "name": "药物 - 食欲亢进",
+  "icon": "moonstone:polyphagia",
+  "category": "moonstone:medicinebox",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "食欲亢进，是指容易饥饿、想进食物及进食量明显增加，由机体热能消耗过多、代谢过分旺盛或胰岛素分泌亢进等原因引起。它常见于糖尿病、甲状腺功能亢进、胰岛β细胞瘤等。"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:polyphagia",
+      "title": "-食欲亢进-",
+      "text": "佩戴医药箱并吃下一个附魔金苹果"
+    }
+  ]
+}

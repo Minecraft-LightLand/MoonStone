@@ -1,0 +1,19 @@
+{
+  "name": "狂野的自然珍珠",
+  "icon": "moonstone:treeorb",
+  "category": "moonstone:nagablock",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "萃取土地之养，凝聚于此"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:treeorb",
+      "title": "-珍珠-",
+      "text": "发现于暮色森林中树洞的箱子，概率：10%"
+    }
+  ]
+}

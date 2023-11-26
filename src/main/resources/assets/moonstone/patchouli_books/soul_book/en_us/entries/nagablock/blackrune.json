@@ -1,0 +1,19 @@
+{
+  "name": "暗影法石",
+  "icon": "moonstone:blackrune",
+  "category": "moonstone:nagablock",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "这是巫妖毕生的心血，它凝聚着太多的巫术法则，或许可以利用这些法则来做一些不可思议的事情"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:blackrune",
+      "title": "-法石-",
+      "text": "使用铁砧将战争符石和巫术之首融合"
+    }
+  ]
+}

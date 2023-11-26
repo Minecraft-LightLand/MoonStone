@@ -1,0 +1,19 @@
+{
+  "name": "深渊海螺",
+  "icon": "moonstone:conch",
+  "category": "moonstone:conch",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "深渊海螺"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:conch",
+      "title": "-海螺-",
+      "text": "尝试与 Deep One 交易！"
+    }
+  ]
+}
