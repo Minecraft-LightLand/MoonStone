@@ -1,6 +1,6 @@
 package com.moonstone.moonstonemod.mixin;
 
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.init.Init;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.Container;

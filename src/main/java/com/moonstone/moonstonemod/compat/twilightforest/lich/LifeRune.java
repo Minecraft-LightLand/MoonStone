@@ -1,6 +1,6 @@
 package com.moonstone.moonstonemod.compat.twilightforest.lich;
 
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.compat.twilightforest.base.TFBaseItem;
 import com.moonstone.moonstonemod.content.CurioItemCapability;
 import com.moonstone.moonstonemod.init.Init;

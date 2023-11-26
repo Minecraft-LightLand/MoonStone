@@ -2,9 +2,9 @@ package com.moonstone.moonstonemod.compat.alexcave;
 
 import com.github.alexmodguy.alexscaves.client.particle.ACParticleRegistry;
 import com.github.alexmodguy.alexscaves.server.potion.ACEffectRegistry;
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.content.CurioItemCapability;
-import com.moonstone.moonstonemod.content.item.CaveItem;
+import com.moonstone.moonstonemod.content.item.misc.CaveItem;
 import net.minecraft.ChatFormatting;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.nbt.CompoundTag;

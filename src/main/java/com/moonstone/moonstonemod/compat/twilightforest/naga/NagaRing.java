@@ -1,6 +1,6 @@
 package com.moonstone.moonstonemod.compat.twilightforest.naga;
 
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.content.CurioItemCapability;
 import net.minecraft.ChatFormatting;
 import net.minecraft.nbt.CompoundTag;

@@ -1,7 +1,7 @@
 package com.moonstone.moonstonemod.mixin;
 
 
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.init.Init;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.player.Player;

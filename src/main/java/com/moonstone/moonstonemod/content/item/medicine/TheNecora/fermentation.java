@@ -1,6 +1,6 @@
 package com.moonstone.moonstonemod.content.item.medicine.TheNecora;
 
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.content.CurioItemCapability;
 import com.moonstone.moonstonemod.content.item.medicine.extend.TheNecoraIC;
 import net.minecraft.ChatFormatting;

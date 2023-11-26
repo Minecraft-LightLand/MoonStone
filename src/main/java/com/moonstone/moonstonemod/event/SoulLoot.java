@@ -1,7 +1,7 @@
 package com.moonstone.moonstonemod.event;
 
 import com.github.alexmodguy.alexscaves.server.entity.ACEntityRegistry;
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.init.Init;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.util.Mth;

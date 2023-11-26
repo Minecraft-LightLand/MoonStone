@@ -1,6 +1,6 @@
 package com.moonstone.moonstonemod.compat.toughasnails;
 
-import com.moonstone.moonstonemod.content.item.EpicItem;
+import com.moonstone.moonstonemod.content.item.misc.EpicItem;
 import net.minecraft.ChatFormatting;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.ItemStack;

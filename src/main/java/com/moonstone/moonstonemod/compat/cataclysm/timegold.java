@@ -1,9 +1,9 @@
 package com.moonstone.moonstonemod.compat.cataclysm;
 
 import com.github.L_Ender.cataclysm.init.ModEffect;
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.content.CurioItemCapability;
-import com.moonstone.moonstonemod.content.particle.Reg;
+import com.moonstone.moonstonemod.init.Reg;
 import net.minecraft.ChatFormatting;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.nbt.CompoundTag;

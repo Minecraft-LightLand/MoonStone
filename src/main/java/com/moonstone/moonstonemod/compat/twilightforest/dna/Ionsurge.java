@@ -1,7 +1,7 @@
 package com.moonstone.moonstonemod.compat.twilightforest.dna;
 
 import com.google.common.collect.Lists;
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.content.CurioItemCapability;
 import net.minecraft.ChatFormatting;
 import net.minecraft.client.gui.screens.Screen;

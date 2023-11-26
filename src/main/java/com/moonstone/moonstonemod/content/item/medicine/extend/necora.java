@@ -2,7 +2,7 @@ package com.moonstone.moonstonemod.content.item.medicine.extend;
 
 import com.google.common.collect.HashMultimap;
 import com.google.common.collect.Multimap;
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.content.CurioItemCapability;
 import com.moonstone.moonstonemod.init.Init;
 import net.minecraft.ChatFormatting;

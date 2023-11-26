@@ -1,15 +1,15 @@
 package com.moonstone.moonstonemod.event;
 
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.compat.alexcave.conchloot;
 import com.moonstone.moonstonemod.compat.twilightforest.base.Loot;
 import com.moonstone.moonstonemod.compat.twilightforest.base.TreeLoot;
-import com.moonstone.moonstonemod.content.item.CaveItem;
-import com.moonstone.moonstonemod.content.item.MSLoot.*;
-import com.moonstone.moonstonemod.content.item.MoonStoneItem.Do;
-import com.moonstone.moonstonemod.content.item.MoonStoneItem.Industry;
-import com.moonstone.moonstonemod.content.item.MoonStoneItem.Nightmare;
-import com.moonstone.moonstonemod.content.item.MoonStoneItem.Rage;
+import com.moonstone.moonstonemod.content.item.misc.CaveItem;
+import com.moonstone.moonstonemod.content.loot.*;
+import com.moonstone.moonstonemod.content.item.misc.Do;
+import com.moonstone.moonstonemod.content.item.misc.Industry;
+import com.moonstone.moonstonemod.content.item.misc.Nightmare;
+import com.moonstone.moonstonemod.content.item.misc.Rage;
 import com.moonstone.moonstonemod.content.item.medicine.extend.TheNecoraIC;
 import com.moonstone.moonstonemod.content.item.medicine.extend.medIC;
 import com.moonstone.moonstonemod.init.Init;

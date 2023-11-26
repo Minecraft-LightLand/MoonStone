@@ -1,8 +1,8 @@
 package com.moonstone.moonstonemod.compat.toughasnails;
 
-import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.content.CuriosHandler;
 import com.moonstone.moonstonemod.content.CurioItemCapability;
-import com.moonstone.moonstonemod.content.item.EpicItem;
+import com.moonstone.moonstonemod.content.item.misc.EpicItem;
 import net.minecraft.ChatFormatting;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.nbt.CompoundTag;

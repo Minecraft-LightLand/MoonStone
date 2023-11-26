@@ -9,7 +9,7 @@
     "LivingEntityMixin"
   ],
   "client": [
-    "C.GuiGraphicsMixin"
+	"GuiGraphicsMixin"
   ],
   "injectors": {
     "defaultRequire": 1

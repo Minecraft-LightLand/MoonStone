@@ -1,7 +1,7 @@
 package com.moonstone.moonstonemod.compat.cataclysm;
 
 import com.github.L_Ender.cataclysm.init.ModItems;
-import com.moonstone.moonstonemod.content.item.EpicItem;
+import com.moonstone.moonstonemod.content.item.misc.EpicItem;
 import com.moonstone.moonstonemod.init.Config;
 import com.moonstone.moonstonemod.init.Init;
 import net.minecraft.world.entity.player.Player;
