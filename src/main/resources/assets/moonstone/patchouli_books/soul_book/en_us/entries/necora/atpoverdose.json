@@ -1,0 +1,19 @@
+{
+  "name": "过量ATP",
+  "icon": "moonstone:atpoverdose",
+  "category": "moonstone:necora",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "ATP Overdose"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:atpoverdose",
+      "title": "-ATP 过量-",
+      "text": "佩戴Necora病毒后，杀死僵尸有1/100的概率掉落"
+    }
+  ]
+}

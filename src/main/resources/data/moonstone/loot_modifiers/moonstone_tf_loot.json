@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "twilightforest:chests/hill_1"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "twilightforest:chests/hill_2"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "twilightforest:chests/hill_3"
+        }
+
+      ]
+    }
+  ],
+  "type": "moonstone:moonstone_tf_loot"
+}

@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "moonstone:mblock",
+    "moonstone:mshell",
+
+
+    "moonstone:diamondhorseshoe",
+    "moonstone:ectoplasmhorseshoe",
+    "moonstone:goldhorseshoe",
+    "moonstone:ironhorseshoe",
+    "moonstone:superhorseshoe",
+    "moonstone:woodenhorseshoe",
+    "moonstone:ectoplasmapple",
+    "moonstone:twistedyoke",
+
+    "moonstone:undead",
+    "moonstone:goldbook",
+    "moonstone:treasure",
+    "moonstone:nanorobot",
+    "moonstone:battery",
+    "moonstone:soulbattery",
+    "moonstone:ectoplasmbattery",
+    "moonstone:mbattery",
+    "moonstone:nagablock",
+    "moonstone:nightmarestone",
+    "moonstone:nightmaretreasure",
+
+    "moonstone:rageapple"
+  ]
+}

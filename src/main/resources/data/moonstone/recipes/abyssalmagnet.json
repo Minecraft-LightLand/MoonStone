@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "BDB",
+    "CEC"
+  ],
+  "key":
+  {
+    "A":
+    {
+      "item": "enigmaticlegacy:evil_ingot"
+    },
+    "B":
+    {
+      "item": "enigmaticlegacy:evil_essence"
+    },
+    "C":
+    {
+      "item": "minecraft:obsidian"
+    },
+    "D":
+    {
+      "item": "enigmaticlegacy:abyssal_heart"
+    },
+    "E":
+    {
+      "item": "minecraft:lodestone"
+    }
+  },
+  "result":
+  {
+    "item": "moonstone:abyssalmagnet",
+    "count": 1
+  }
+}

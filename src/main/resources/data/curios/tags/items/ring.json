@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "moonstone:mring",
+    "moonstone:twistedring",
+    "moonstone:hurtring",
+    "moonstone:obsidianring",
+    "moonstone:nagaring"
+  ]
+}

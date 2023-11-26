@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "moonstone:mbox",
+    "moonstone:soulcube",
+    "moonstone:slatecube",
+    "moonstone:decayedstone",
+    "moonstone:nanocube",
+    "moonstone:medicinebox",
+    "moonstone:nightmaremoai",
+    "moonstone:industrybox"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "娜迦之戒",
+  "icon": "moonstone:nagaring",
+  "category": "moonstone:nagablock",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "由娜迦的鳞片打造，但这种技术早已失传，或许你可以在娜迦那里找到它"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nagaring",
+      "title": "-戒指-",
+      "text": "发现于娜迦，概率：20%"
+    }
+  ]
+}

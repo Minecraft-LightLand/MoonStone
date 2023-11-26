@@ -1,0 +1,19 @@
+{
+  "name": "莫里斯的壳",
+  "icon": "moonstone:mshell",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "莫里斯的壳"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:mshell",
+      "title": "-亡灵蜗牛壳-",
+      "text": "发现于僵尸，概率：1/100"
+    }
+  ]
+}

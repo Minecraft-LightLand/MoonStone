@@ -1,0 +1,19 @@
+{
+  "name": "§c深渊之眼",
+  "icon": "moonstone:nightmareeye",
+  "category": "moonstone:nightmareeye",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "§c来自深渊的恶意之眼......"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nightmareeye",
+      "title": "§4-眼眸-",
+      "text": "使用铁砧将末影之眼和灵质棱镜融合"
+    }
+  ]
+}

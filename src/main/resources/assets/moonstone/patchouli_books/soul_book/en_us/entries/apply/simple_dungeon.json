@@ -1,0 +1,110 @@
+{
+  "name": "地牢",
+  "icon": "moonstone:slate",
+  "category": "moonstone:apply",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "战争水晶"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:warcrystal",
+      "title": "-战争水晶-",
+      "text": "概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "贪婪水晶"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:greedcrystal",
+      "title": "-贪婪水晶-",
+      "text": "概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "契约-永恒贪婪"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:undead",
+      "title": "-契约-永恒贪婪-",
+      "text": "概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "永恒财富之籍"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:goldbook",
+      "title": "-永恒财富之籍-",
+      "text": "概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "金鹿角徽章"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:deerbadge",
+      "title": "-金鹿角徽章-",
+      "text": "概率：1/20"
+    },
+
+    {
+      "type": "text",
+      "text": "战争符石"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:redamout",
+      "title": "-战争符石-",
+      "text": "概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "防御符石"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:blueamout",
+      "title": "-防御符石-",
+      "text": "概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "生命符石"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:greedamout",
+      "title": "-生命符石-",
+      "text": "概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "王者的财宝"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:treasure",
+      "title": "-王者的财宝-",
+      "text": "概率：1/20"
+    },
+    {
+      "type": "text",
+      "text": "洞察魔瞳"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:blessingseye",
+      "title": "-洞察魔瞳-",
+      "text": "概率：1/20"
+    }
+  ]
+}

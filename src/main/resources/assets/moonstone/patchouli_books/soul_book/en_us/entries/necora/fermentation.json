@@ -1,0 +1,19 @@
+{
+  "name": "埋伏性狩猎",
+  "icon": "moonstone:fermentation",
+  "category": "moonstone:necora",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Fermentation"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:fermentation",
+      "title": "-埋伏性狩猎-",
+      "text": "佩戴Necora病毒后，杀死掠夺者有1/25的概率掉落"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "离子逆差化",
+  "icon": "moonstone:iondeficit",
+  "category": "moonstone:nagablock",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ion Deficit"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:iondeficit",
+      "title": "-DNA-",
+      "text": "发现于暮色森林中大/中/小矿山的箱子，概率：5%"
+    }
+  ]
+}

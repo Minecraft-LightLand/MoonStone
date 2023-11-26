@@ -1,0 +1,24 @@
+{
+  "name": "莫里斯的私人空间",
+  "icon": "moonstone:mbox",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "super 亡灵蜗牛壳"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:mbox",
+      "title": "-蜗牛盒-",
+      "text": "只能合成获取"
+    },
+    {
+      "type": "crafting",
+      "recipe": "moonstone:mbox",
+      "text": "“它的房子，也是它的唯一”"
+    }
+  ]
+}

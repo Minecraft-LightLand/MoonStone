@@ -1,0 +1,49 @@
+{
+  "name": "猪灵堡垒-宝藏室",
+  "icon": "moonstone:twstone",
+  "category": "moonstone:apply",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "扭曲石板"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:twstone",
+      "title": "-扭曲石板-",
+      "text": "概率：100%"
+    },
+    {
+      "type": "text",
+      "text": "扭曲枷锁"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:twistedyoke",
+      "title": "-扭曲枷锁-",
+      "text": "概率：1/7"
+    },
+    {
+      "type": "text",
+      "text": "扭曲岩"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:twistedrock",
+      "title": "-扭曲岩-",
+      "text": "概率：1/15"
+    },
+    {
+      "type": "text",
+      "text": "扭曲头颅"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:twistedhand",
+      "title": "-扭曲头颅-",
+      "text": "概率：1/15"
+    }
+  ]
+}

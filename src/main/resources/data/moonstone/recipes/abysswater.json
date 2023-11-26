@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enigmaticlegacy:abyssal_heart"
+    },
+    {
+      "item": "enigmaticlegacy:unholy_grail"
+    },
+    {
+      "item": "minecraft:crying_obsidian"
+    },
+    {
+      "item": "moonstone:ectoplasmprism"
+    }
+  ],
+  "result": {
+    "item": "moonstone:abysswater",
+    "count": 1
+  }
+}

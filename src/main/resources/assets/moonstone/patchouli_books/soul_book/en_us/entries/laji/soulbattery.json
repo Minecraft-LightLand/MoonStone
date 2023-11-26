@@ -1,0 +1,24 @@
+{
+  "name": "灵魂电池",
+  "icon": "moonstone:soulbattery",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "super por max 电容器 + "
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:soulbattery",
+      "title": "-白色的电池-",
+      "text": "发现于地牢，矿井，概率：1/25"
+    },
+    {
+      "type": "crafting",
+      "recipe": "moonstone:soulbattery",
+      "text": "它不仅仅蕴含着无限的能量，它还拥有一颗璀璨的灵魂"
+    }
+  ]
+}

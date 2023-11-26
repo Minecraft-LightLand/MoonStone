@@ -1,0 +1,19 @@
+{
+  "name": "七宗罪",
+  "icon": "moonstone:sevencurse",
+  "category": "moonstone:hurtring",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "七宗罪"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:sevencurse",
+      "title": "-七宗罪-",
+      "text": "你需要杀死所有灾变和原版的boss来解锁这些被封印的词条。一般情况下，每杀死一个boss将解锁一个对应的词条"
+    }
+  ]
+}

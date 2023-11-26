@@ -1,0 +1,19 @@
+{
+  "name": "原始之纹",
+  "icon": "moonstone:maxamout",
+  "category": "moonstone:warcharm",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "获得原始之纹的你能否再创辉煌"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:maxamout",
+      "title": "-原古纹章-",
+      "text": "同时佩戴 战争/防御/生命 符石，再击杀远古守卫者"
+    }
+  ]
+}

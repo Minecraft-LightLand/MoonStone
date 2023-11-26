@@ -1,0 +1,9 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "twilightforest:chests/tree_cache"
+    }
+  ],
+  "type": "moonstone:moonstone_tf_tree_loot"
+}

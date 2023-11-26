@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    "CBC",
+    "ACA"
+  ],
+  "key":
+  {
+    "A":
+    {
+      "item": "enigmaticlegacy:etherium_ingot"
+    },
+    "B":
+    {
+      "item": "enigmaticlegacy:void_pearl"
+    },
+    "C":
+    {
+      "item": "enigmaticlegacy:astral_dust"
+    }
+  },
+  "result":
+  {
+    "item": "moonstone:astralcube",
+    "count": 1
+  }
+}

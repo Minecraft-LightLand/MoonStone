@@ -1,0 +1,7 @@
+{
+  "name": "饰品",
+  "description": "在世界上可以发现的饰品",
+  "icon": "moonstone:deerbadge",
+  "sortnum": 0,
+  "secret": false
+}

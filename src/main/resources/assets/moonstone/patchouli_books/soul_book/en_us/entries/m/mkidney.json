@@ -1,0 +1,19 @@
+{
+  "name": "莫里斯的厄运肾结石",
+  "icon": "moonstone:mkidney",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "莫里斯的厄运肾结石"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:mkidney",
+      "title": "-肾结石-",
+      "text": "发现于僵尸，概率：1/100"
+    }
+  ]
+}

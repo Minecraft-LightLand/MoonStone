@@ -1,0 +1,19 @@
+{
+  "name": "莫里斯方块",
+  "icon": "moonstone:mblock",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "莫里斯方块"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:mblock",
+      "title": "-制药块-",
+      "text": "发现于僵尸，概率：1/100"
+    }
+  ]
+}

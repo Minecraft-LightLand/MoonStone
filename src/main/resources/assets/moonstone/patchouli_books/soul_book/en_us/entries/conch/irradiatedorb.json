@@ -1,0 +1,19 @@
+{
+  "name": "辐射凝胶球",
+  "icon": "moonstone:irradiatedorb",
+  "category": "moonstone:conch",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "辐射凝胶球"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:irradiatedorb",
+      "title": "-凝胶球-",
+      "text": "杀死 Nucleeper 有 20% 的概率掉落！"
+    }
+  ]
+}

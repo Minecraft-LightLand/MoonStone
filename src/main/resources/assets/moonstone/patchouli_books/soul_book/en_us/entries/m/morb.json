@@ -1,0 +1,19 @@
+{
+  "name": "莫里斯的珍珠",
+  "icon": "moonstone:morb",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "莫里斯的珍珠"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:morb",
+      "title": "-败坏魔球-",
+      "text": "发现于僵尸，概率：1/100"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "药物 - 细胞重生",
+  "icon": "moonstone:reanimation",
+  "category": "moonstone:medicinebox",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "·使实验者的复杂神经系统开始重构导致坏死细胞复活， 同时恢复重要器官的低等功能"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:reanimation",
+      "title": "-细胞重生-",
+      "text": "佩戴医药箱并死亡"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "战神之钲",
+  "icon": "moonstone:warcharm",
+  "category": "moonstone:warcharm",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "以血肉之躯，堪比神明！"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:warcharm",
+      "title": "-战神的纹章-",
+      "text": "同时佩戴 Necroa病毒，战争水晶，大战争水晶，混乱水晶，即可获得此物品"
+    }
+  ]
+}

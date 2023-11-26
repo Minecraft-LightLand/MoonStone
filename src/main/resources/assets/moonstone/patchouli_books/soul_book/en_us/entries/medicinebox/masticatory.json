@@ -1,0 +1,19 @@
+{
+  "name": "药物 - 咬合肌强化",
+  "icon": "moonstone:masticatory",
+  "category": "moonstone:medicinebox",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "使实验者的咬合肌变得丰满可以更快的咀嚼食物"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:masticatory",
+      "title": "-咬合肌强化-",
+      "text": "佩戴医药箱并吃下8个金苹果，一个医药箱只可以获得一次"
+    }
+  ]
+}

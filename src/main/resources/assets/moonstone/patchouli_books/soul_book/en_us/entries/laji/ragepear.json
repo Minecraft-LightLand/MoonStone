@@ -1,0 +1,19 @@
+{
+  "name": "狂暴的附魔珍珠",
+  "icon": "moonstone:ragepear",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "狂暴的附魔珍珠"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:ragepear",
+      "title": "-珍珠-",
+      "text": "发现于，古城，概率：1.67%"
+    }
+  ]
+}

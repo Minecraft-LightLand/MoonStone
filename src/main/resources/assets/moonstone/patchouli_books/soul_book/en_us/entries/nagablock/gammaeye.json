@@ -1,0 +1,19 @@
+{
+  "name": "伽马心石",
+  "icon": "moonstone:gammaeye",
+  "category": "moonstone:nagablock",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "“它不应该出现在这里!”"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:gammaeye",
+      "title": "-伽马心石-",
+      "text": "发现于暮色森林中树洞的箱子，概率：10%"
+    }
+  ]
+}

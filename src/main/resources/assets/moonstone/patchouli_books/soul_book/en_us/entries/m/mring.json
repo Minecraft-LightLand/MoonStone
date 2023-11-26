@@ -1,0 +1,19 @@
+{
+  "name": "莫里斯之戒",
+  "icon": "moonstone:mring",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "莫里斯之戒"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:mring",
+      "title": "-亡灵的戒指-",
+      "text": "发现于僵尸，概率：1/100"
+    }
+  ]
+}

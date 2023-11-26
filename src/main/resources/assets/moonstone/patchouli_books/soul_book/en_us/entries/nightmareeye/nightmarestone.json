@@ -1,0 +1,19 @@
+{
+  "name": "§c古老的诅咒方尖碑",
+  "icon": "moonstone:nightmarestone",
+  "category": "moonstone:nightmareeye",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "§c古老的传说"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nightmarestone",
+      "title": "§4-方尖碑-",
+      "text": "佩戴深渊之眼后用空手杀死凋零"
+    }
+  ]
+}

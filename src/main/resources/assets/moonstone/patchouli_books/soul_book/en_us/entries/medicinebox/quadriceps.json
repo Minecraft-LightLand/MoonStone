@@ -1,0 +1,19 @@
+{
+  "name": "药物 - 四头肌强化",
+  "icon": "moonstone:quadriceps",
+  "category": "moonstone:medicinebox",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "使实验者消化其它部位以修复其腿部肌肉，从而大幅度提高实验者的跳跃高度和运动速度"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:quadriceps",
+      "title": "-四头肌强化-",
+      "text": "佩戴医药箱并跳跃500次 (鼠标悬浮于物品之上以查看次数)"
+    }
+  ]
+}

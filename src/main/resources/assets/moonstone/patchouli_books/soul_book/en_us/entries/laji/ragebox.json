@@ -1,0 +1,19 @@
+{
+  "name": "狂暴因子反应炉",
+  "icon": "moonstone:ragebox",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "狂暴因子反应炉"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:ragebox",
+      "title": "-反应炉-",
+      "text": "发现于远古城市"
+    }
+  ]
+}

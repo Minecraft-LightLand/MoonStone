@@ -1,0 +1,19 @@
+{
+  "name": "末日果实",
+  "icon": "moonstone:doomfruit",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "末日果实"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:doomfruit",
+      "title": "-果实-",
+      "text": "将巨型莫里斯电池和一个附魔金苹果在铁砧上融合,, 也可以从末地城的箱子里发现"
+    }
+  ]
+}

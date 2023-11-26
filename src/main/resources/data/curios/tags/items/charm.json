@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+
+    "moonstone:mbottle",
+    "moonstone:morb",
+    "moonstone:badgeofthedead",
+    "moonstone:ectoplasmbadge",
+    "moonstone:ectoplasmstone",
+    "moonstone:twistedstone",
+    "moonstone:twistedbadge",
+    "moonstone:twistedrock",
+    "moonstone:greedcrystal",
+    "moonstone:warcrystal",
+    "moonstone:biggreedcrystal",
+    "moonstone:bigwarcrystal",
+    "moonstone:fortunecrystal",
+    "moonstone:mayhemcrystal",
+    "moonstone:slate",
+    "moonstone:bigslate",
+    "moonstone:goldstone",
+    "moonstone:deerbadge",
+    "moonstone:redamout",
+    "moonstone:blueamout",
+    "moonstone:greedamout",
+    "moonstone:mkidney",
+    "moonstone:meye",
+
+    "moonstone:plague",
+
+    "moonstone:whiteorb",
+    "moonstone:blackeorb",
+    "moonstone:blackhead",
+    "moonstone:warcharm",
+    "moonstone:maxamout",
+
+    "moonstone:sevencurse",
+    "moonstone:hellbattery",
+    "moonstone:evilcandle",
+    "moonstone:evilmug",
+
+    "moonstone:nagastone",
+
+    "moonstone:nagaorb",
+    "moonstone:liferune",
+    "moonstone:snowrune",
+    "moonstone:necora",
+    "moonstone:treeorb",
+    "moonstone:timegold",
+
+    "moonstone:nightmareorb",
+    "moonstone:nightmareeye",
+    "moonstone:nightmarecharm",
+    "moonstone:nightmareanchor",
+
+
+    "moonstone:rageeye",
+
+    "moonstone:dnadish",
+    "moonstone:ragepear",
+    "moonstone:ragecharm",
+
+    "moonstone:conch",
+    "moonstone:irradiatedorb",
+    "moonstone:blackrune",
+    "moonstone:doomstone"
+
+  ]
+}

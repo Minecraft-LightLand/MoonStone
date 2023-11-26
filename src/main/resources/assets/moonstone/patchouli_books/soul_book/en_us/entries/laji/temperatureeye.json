@@ -1,0 +1,19 @@
+{
+  "name": "火龙眼",
+  "icon": "moonstone:temperatureeye",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "火龙眼"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:temperatureeye",
+      "title": "-火龙眼-",
+      "text": "发现于，?，概率：?%"
+    }
+  ]
+}

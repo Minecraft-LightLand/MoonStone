@@ -1,0 +1,19 @@
+{
+  "name": "怪异的瘟疫苹果",
+  "icon": "moonstone:apple",
+  "category": "moonstone:apply",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "苹果"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:apple",
+      "title": "-苹果-",
+      "text": "食用后将解锁3个基因体插槽"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "巫术之首",
+  "icon": "moonstone:lichhead",
+  "category": "moonstone:nagablock",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "这是巫妖毕生的心血，它凝聚着太多的巫术法则，或许可以利用这些法则来做一些不可思议的事情"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:lichhead",
+      "title": "-头颅-",
+      "text": "发现于巫妖，概率：100%"
+    }
+  ]
+}

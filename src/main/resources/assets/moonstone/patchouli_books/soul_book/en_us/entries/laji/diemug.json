@@ -1,0 +1,19 @@
+{
+  "name": "邪恶的死灵圣杯",
+  "icon": "moonstone:diemug",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "恶臭的液体"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:diemug",
+      "title": "-圣杯-",
+      "text": "将邪恶酒桶和一个灵质棱镜在铁砧上合成"
+    }
+  ]
+}

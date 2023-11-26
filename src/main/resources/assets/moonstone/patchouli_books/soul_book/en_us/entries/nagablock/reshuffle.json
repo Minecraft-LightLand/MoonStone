@@ -1,0 +1,19 @@
+{
+  "name": "硬化重组",
+  "icon": "moonstone:reshuffle",
+  "category": "moonstone:nagablock",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "DNA结构重组导致其高度不稳定, 这或将减少些许生命回复速度"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:reshuffle",
+      "title": "-DNA-",
+      "text": "发现于暮色森林中大/中/小矿山的箱子，概率：5%"
+    }
+  ]
+}

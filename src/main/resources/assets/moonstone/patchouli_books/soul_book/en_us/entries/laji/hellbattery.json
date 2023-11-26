@@ -1,0 +1,23 @@
+{
+  "name": "杜拉赫尔符灵电池",
+  "icon": "moonstone:hellbattery",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "super por max 电容器 +++++"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:hellbattery",
+      "title": "-神奇的电池-",
+      "text": "使用电池和下界合金锭在铁砧上合成（如果你安装了灾变模组，则可以把下界合金锭替换成焰魔锭）"
+    },
+    {
+      "type": "text",
+      "text": "杜拉赫尔的灵魂封存在这个小小的东西之中"
+    }
+  ]
+}

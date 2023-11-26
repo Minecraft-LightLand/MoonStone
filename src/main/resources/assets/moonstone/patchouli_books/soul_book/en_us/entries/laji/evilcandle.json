@@ -1,0 +1,19 @@
+{
+  "name": "邪恶蜡烛",
+  "icon": "moonstone:evilcandle",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "余烬之火，生生不息"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:evilcandle",
+      "title": "-蜡烛-",
+      "text": "使用黄色蜡烛和灵质棱镜在铁砧上合成"
+    }
+  ]
+}

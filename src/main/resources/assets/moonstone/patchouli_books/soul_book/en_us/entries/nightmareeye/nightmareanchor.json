@@ -1,0 +1,19 @@
+{
+  "name": "§c虚伪锚",
+  "icon": "moonstone:nightmareanchor",
+  "category": "moonstone:nightmareeye",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "§c死亡才是开始..."
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nightmareanchor",
+      "title": "§4-锚-",
+      "text": "我想，你应该可以战胜监守者...并获得它的虚伪锚..."
+    }
+  ]
+}

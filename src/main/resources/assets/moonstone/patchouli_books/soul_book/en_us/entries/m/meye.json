@@ -1,0 +1,19 @@
+{
+  "name": "莫里斯的眼睛",
+  "icon": "moonstone:meye",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "莫里斯的眼睛"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:meye",
+      "title": "-全视之眼-",
+      "text": "发现于僵尸，概率：1/100"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "alexscaves:gameplay/deep_one_mage_barter"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "alexscaves:gameplay/deep_one_barter"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "alexscaves:gameplay/deep_one_knight_barter"
+        }
+
+      ]
+    }
+  ],
+  "type": "moonstone:conchloot"
+}

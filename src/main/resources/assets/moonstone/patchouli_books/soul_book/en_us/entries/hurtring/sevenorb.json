@@ -1,0 +1,19 @@
+{
+  "name": "诅咒凝胶球",
+  "icon": "moonstone:sevenorb",
+  "category": "moonstone:hurtring",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "诅咒凝胶球"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:sevenorb",
+      "title": "-凝胶球-",
+      "text": "食用后，解除七宗罪对你的诅咒"
+    }
+  ]
+}

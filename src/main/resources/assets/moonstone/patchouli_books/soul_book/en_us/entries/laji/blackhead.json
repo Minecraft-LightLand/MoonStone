@@ -1,0 +1,23 @@
+{
+  "name": "巫术法球",
+  "icon": "moonstone:blackhead",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "至暗之巫术魔球"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:blackhead",
+      "title": "-巫术法球-",
+      "text": "发现于深邃古城"
+    },
+    {
+      "type": "text",
+      "text": "纯粹的黑暗魔法,使你藐视万物，但代价是什么?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "偷盗者的狂暴之眼",
+  "icon": "moonstone:rageeye",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "偷盗者的狂暴之眼"
+    },
+    {
+      "type": "crafting",
+      "recipe": "moonstone:rageeye",
+      "text": "发现于，古城，概率：2%"
+    }
+  ]
+}

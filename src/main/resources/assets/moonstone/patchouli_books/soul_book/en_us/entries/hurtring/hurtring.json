@@ -1,0 +1,19 @@
+{
+  "name": "重击之戒",
+  "icon": "moonstone:hurtring",
+  "category": "moonstone:hurtring",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "重击之戒"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:hurtring",
+      "title": "-戒指-",
+      "text": "用铁砧将扭曲魔戒和火焰壁垒结合"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BCB",
+    "DAD",
+    "BEB"
+  ],
+  "key":
+  {
+    "A":
+    {
+      "item": "enigmaticlegacy:monster_charm"
+    },
+    "B":
+    {
+      "item": "enigmaticlegacy:evil_essence"
+    },
+    "C":
+    {
+      "item": "enigmaticlegacy:void_pearl"
+    },
+    "D":
+    {
+      "item": "minecraft:obsidian"
+    },
+    "E":
+    {
+      "item": "enigmaticlegacy:twisted_heart"
+    }
+  },
+  "result":
+  {
+    "item": "moonstone:abyssalcharm",
+    "count": 1
+  }
+}

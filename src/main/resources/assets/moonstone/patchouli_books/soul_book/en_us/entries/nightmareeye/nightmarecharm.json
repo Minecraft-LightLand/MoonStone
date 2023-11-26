@@ -1,0 +1,19 @@
+{
+  "name": "§c“祝福”",
+  "icon": "moonstone:nightmarecharm",
+  "category": "moonstone:nightmareeye",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "§c深渊的美..."
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nightmarecharm",
+      "title": "§4-护符-",
+      "text": "去抢夺远古守卫者的祝福！"
+    }
+  ]
+}

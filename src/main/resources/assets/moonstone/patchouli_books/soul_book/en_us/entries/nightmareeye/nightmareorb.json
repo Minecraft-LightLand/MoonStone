@@ -1,0 +1,19 @@
+{
+  "name": "§c虚无死岩球",
+  "icon": "moonstone:nightmareorb",
+  "category": "moonstone:nightmareeye",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "§c虚伪的恐怖，虚无的魔力"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nightmareorb",
+      "title": "§4-岩石球-",
+      "text": "佩戴深渊之眼后用空手杀死末影龙"
+    }
+  ]
+}

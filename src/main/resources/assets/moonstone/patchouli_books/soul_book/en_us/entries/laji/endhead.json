@@ -1,0 +1,19 @@
+{
+  "name": "末影女王皇冠",
+  "icon": "moonstone:endhead",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "末影女王皇冠"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:endhead",
+      "title": "-末影女王皇冠-",
+      "text": "发现于，?，概率：?%"
+    }
+  ]
+}

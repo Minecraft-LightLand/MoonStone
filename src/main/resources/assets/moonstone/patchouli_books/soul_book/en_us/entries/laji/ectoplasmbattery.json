@@ -1,0 +1,24 @@
+{
+  "name": "灵质电池",
+  "icon": "moonstone:ectoplasmbattery",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "super por max 电容器 ++ "
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:ectoplasmbattery",
+      "title": "-淡蓝色的电池-",
+      "text": "只能合成获取"
+    },
+    {
+      "type": "crafting",
+      "recipe": "moonstone:ectoplasmbattery",
+      "text": "无数灵魂凝聚成灵质，再将灵质打入灵魂电池"
+    }
+  ]
+}

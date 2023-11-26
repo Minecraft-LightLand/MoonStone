@@ -1,0 +1,18 @@
+{
+  "name": "Necora病毒",
+  "icon": "moonstone:necora",
+  "category": "moonstone:necora",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "该病原体尚未被归类, 且早期医学报告中表明它具有超级的再生能力和强烈的代谢需求, 但是它的大部分基因结构仍然是未解之谜,"
+    },
+    {
+      "type": "crafting",
+      "recipe": "moonstone:necora",
+      "text": "-病毒-"
+    }
+  ]
+}

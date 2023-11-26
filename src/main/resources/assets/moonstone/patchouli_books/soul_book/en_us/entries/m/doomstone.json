@@ -1,0 +1,19 @@
+{
+  "name": "末日结石",
+  "icon": "moonstone:doomstone",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "末日结石"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:doomstone",
+      "title": "-结石-",
+      "text": "将莫里斯的肾结石和一个灵质立方在铁砧上合成"
+    }
+  ]
+}

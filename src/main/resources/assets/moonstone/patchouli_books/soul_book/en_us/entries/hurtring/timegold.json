@@ -1,0 +1,19 @@
+{
+  "name": "辉煌之时停金表",
+  "icon": "moonstone:timegold",
+  "category": "moonstone:hurtring",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Gold Time"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:timegold",
+      "title": "-金表-",
+      "text": "发现于 焰魔"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"entries": [
+		"moonstone:bastion_treasure",
+		"moonstone:abandoned_mineshaft",
+		"moonstone:ancient_city",
+		"moonstone:goldbook",
+		"moonstone:simple_dungeon",
+
+		"moonstone:moonstone_tf_loot",
+		"moonstone:moonstone_tf_tree_loot",
+
+		"moonstone:end_city",
+
+		"moonstone:conchloot"
+	]
+}

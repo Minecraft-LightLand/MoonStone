@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BEB",
+    "DAD",
+    "BCB"
+  ],
+  "key":
+  {
+    "A":
+    {
+      "item": "minecraft:stone"
+    },
+    "B":
+    {
+      "item": "minecraft:obsidian"
+    },
+    "C":
+    {
+      "item": "enigmaticlegacy:abyssal_heart"
+    },
+    "D":
+    {
+      "item": "enigmaticlegacy:evil_essence"
+    },
+    "E":
+    {
+      "item": "enigmaticlegacy:twisted_heart"
+    }
+  },
+  "result":
+  {
+    "item": "moonstone:abyssalstone",
+    "count": 1
+  }
+}

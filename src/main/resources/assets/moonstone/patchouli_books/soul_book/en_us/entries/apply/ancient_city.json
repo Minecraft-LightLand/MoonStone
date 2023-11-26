@@ -1,0 +1,49 @@
+{
+  "name": "远古城市",
+  "icon": "moonstone:slate",
+  "category": "moonstone:apply",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "石板"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:slate",
+      "title": "-石板-",
+      "text": "概率：100%"
+    },
+    {
+      "type": "text",
+      "text": "灵魂之果"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:soulapple",
+      "title": "-灵魂之果-",
+      "text": "概率：1/50"
+    },
+    {
+      "type": "text",
+      "text": "纳米机器人"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nanorobot",
+      "title": "-纳米机器人-",
+      "text": "概率：1/15"
+    },
+    {
+      "type": "text",
+      "text": "纳米立方"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nanocube",
+      "title": "-纳米立方-",
+      "text": "概率：1/15"
+    }
+  ]
+}

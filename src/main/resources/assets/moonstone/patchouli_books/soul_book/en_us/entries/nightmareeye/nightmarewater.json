@@ -1,0 +1,19 @@
+{
+  "name": "§c卑微之酿",
+  "icon": "moonstone:nightmarewater",
+  "category": "moonstone:nightmareeye",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "§c古老的传说"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nightmarewater",
+      "title": "§4-圣杯-",
+      "text": "将邪恶的死灵圣杯和灵质棱镜在铁砧上融合"
+    }
+  ]
+}

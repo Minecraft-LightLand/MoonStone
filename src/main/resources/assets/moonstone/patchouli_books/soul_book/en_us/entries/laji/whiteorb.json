@@ -1,0 +1,24 @@
+{
+  "name": "白魔球",
+  "icon": "moonstone:whiteorb",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "净化的莫里斯珍珠"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:whiteorb",
+      "title": "-白色球体-",
+      "text": "打开地牢，矿井和古城的箱子有概率获取。也可以使用莫里斯的魔球合成"
+    },
+    {
+      "type": "crafting",
+      "recipe": "moonstone:whiteorb",
+      "text": "这是一种光明魔法。或许注入一点黑暗力量会使它变得更加强大?"
+    }
+  ]
+}

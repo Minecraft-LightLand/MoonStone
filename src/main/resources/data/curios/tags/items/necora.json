@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "moonstone:atpoverdose",
+    "moonstone:autolytic",
+    "moonstone:putrefactive",
+    "moonstone:ambush",
+    "moonstone:fermentation",
+    "moonstone:regenerative",
+
+    "moonstone:reshuffle",
+    "moonstone:sensitivity",
+    "moonstone:iondeficit",
+    "moonstone:ionsurge",
+
+    "moonstone:waterdnarune",
+    "moonstone:airdnarune"
+  ]
+}

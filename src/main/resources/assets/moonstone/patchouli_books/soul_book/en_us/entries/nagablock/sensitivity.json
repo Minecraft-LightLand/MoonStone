@@ -1,0 +1,19 @@
+{
+  "name": "皮质醇敏感度",
+  "icon": "moonstone:sensitivity",
+  "category": "moonstone:nagablock",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cortisol Sensitivity"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:sensitivity",
+      "title": "-DNA-",
+      "text": "发现于暮色森林中大/中/小矿山的箱子，概率：5%"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "怪异的瘟疫苹果",
+  "icon": "moonstone:apple",
+  "category": "moonstone:necora",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "吃下它，解锁基因插槽"
+    }
+  ]
+}

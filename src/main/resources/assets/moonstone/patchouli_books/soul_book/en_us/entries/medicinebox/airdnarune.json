@@ -1,0 +1,15 @@
+{
+  "name": "碱性氧化",
+  "icon": "moonstone:airdnarune",
+  "category": "moonstone:medicinebox",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "moonstone:airdnarune",
+      "title": "-碱性氧化-",
+      "text": "佩戴医药箱后开取地牢，矿井的箱子有4%的概率获得"
+    }
+  ]
+}

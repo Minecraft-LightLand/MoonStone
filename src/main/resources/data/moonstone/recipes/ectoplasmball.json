@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moonstone:soulball"
+    },
+    {
+      "item": "moonstone:soulball"
+    }
+  ],
+  "result": {
+    "item": "moonstone:ectoplasmball",
+    "count": 1
+  }
+}

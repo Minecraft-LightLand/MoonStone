@@ -1,0 +1,24 @@
+{
+  "name": "黑魔球",
+  "icon": "moonstone:blackeorb",
+  "category": "moonstone:laji",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "黑暗的莫里斯魔球"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:blackeorb",
+      "title": "-黑色球体-",
+      "text": "使用白魔球合成"
+    },
+    {
+      "type": "crafting",
+      "recipe": "moonstone:blackeorb",
+      "text": "这种黑暗魔法可以加强光明魔法的力量，并从某种意义上说,它不属于纯粹的黑暗"
+    }
+  ]
+}

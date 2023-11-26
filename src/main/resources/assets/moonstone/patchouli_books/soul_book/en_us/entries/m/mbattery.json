@@ -1,0 +1,24 @@
+{
+  "name": "巨型莫里斯电池",
+  "icon": "moonstone:mbattery",
+  "category": "moonstone:m",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "super por max m battery"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:mbattery",
+      "title": "-黑暗的绿色粘液聚电池-",
+      "text": "只能合成获取"
+    },
+    {
+      "type": "crafting",
+      "recipe": "moonstone:mbattery",
+      "text": "地狱中莫里斯的宝藏，纯粹的黑暗"
+    }
+  ]
+}

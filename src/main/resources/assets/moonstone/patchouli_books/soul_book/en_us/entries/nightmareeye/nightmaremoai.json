@@ -1,0 +1,19 @@
+{
+  "name": "§c太古摩艾石",
+  "icon": "moonstone:nightmaremoai",
+  "category": "moonstone:nightmareeye",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "§c阴阳之道"
+    },
+    {
+      "type": "spotlight",
+      "item": "moonstone:nightmaremoai",
+      "title": "§4-摩艾石像-",
+      "text": "佩戴深渊之眼后用空手杀死唤魔者"
+    }
+  ]
+}

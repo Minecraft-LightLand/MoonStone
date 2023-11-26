@@ -1,0 +1,15 @@
+{
+  "name": "碱性水解",
+  "icon": "moonstone:waterdnarune",
+  "category": "moonstone:medicinebox",
+  "priority": false,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "moonstone:waterdnarune",
+      "title": "-碱性水解-",
+      "text": "佩戴医药箱后杀死溺尸有5%的概率掉落"
+    }
+  ]
+}
