@@ -1,28 +1,17 @@
 package com.moonstone.moonstonemod.mixin.C;
 
-import com.mojang.blaze3d.systems.RenderSystem;
-import com.moonstone.moonstonemod.InIt;
-import com.moonstone.moonstonemod.Item.MoonStoneItem.M.*;
-import com.moonstone.moonstonemod.Item.MoonStoneItem.industry;
-import com.moonstone.moonstonemod.Item.medicine.extend.TheNecoraIC;
-import com.moonstone.moonstonemod.Item.medicine.extend.apple;
-import com.moonstone.moonstonemod.Item.medicine.extend.medIC;
-import com.moonstone.moonstonemod.Item.medicine.extend.necora;
-import com.moonstone.moonstonemod.MoonstoneMod;
-import net.minecraft.client.Minecraft;
+import com.moonstone.moonstonemod.content.item.MoonStoneItem.Industry;
+import com.moonstone.moonstonemod.content.item.medicine.extend.TheNecoraIC;
+import com.moonstone.moonstonemod.content.item.medicine.extend.apple;
+import com.moonstone.moonstonemod.content.item.medicine.extend.medIC;
+import com.moonstone.moonstonemod.content.item.medicine.extend.necora;
+import com.moonstone.moonstonemod.init.MoonstoneMod;
 import net.minecraft.client.gui.Font;
 import net.minecraft.client.gui.GuiGraphics;
-import net.minecraft.client.gui.screens.Screen;
-import net.minecraft.client.gui.screens.inventory.BookViewScreen;
 import net.minecraft.client.gui.screens.inventory.tooltip.ClientTooltipComponent;
 import net.minecraft.client.gui.screens.inventory.tooltip.ClientTooltipPositioner;
 import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.level.Level;
-import org.jetbrains.annotations.Nullable;
-import org.joml.Vector2ic;
-import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
@@ -34,7 +23,8 @@ import java.util.List;
 @Mixin(GuiGraphics.class)
 public abstract class GuiGraphicsMixin {
 
-    @Shadow private ItemStack tooltipStack;
+	@Shadow
+	private ItemStack tooltipStack;
 
 
     /*
@@ -52,23 +42,23 @@ public abstract class GuiGraphicsMixin {
      */
 
 
-    @Inject(at = @At(value = "INVOKE",target = "Lnet/minecraft/client/gui/GuiGraphics;drawManaged(Ljava/lang/Runnable;)V"),method = "renderTooltipInternal(Lnet/minecraft/client/gui/Font;Ljava/util/List;IILnet/minecraft/client/gui/screens/inventory/tooltip/ClientTooltipPositioner;)V", cancellable = true)
-    public void moonstone$ClientTooltipPositioner(Font p_282675_, List<ClientTooltipComponent> p_282615_, int p_283230_, int p_283417_, ClientTooltipPositioner p_282442_, CallbackInfo ci) {
-        if (tooltipStack.getItem() instanceof industry) {
-            GuiGraphics guiGraphics = (GuiGraphics)(Object) this;
-            guiGraphics.blit(new ResourceLocation(MoonstoneMod.MODID, "textures/glint/the_glint.png"),p_283230_ - 16,p_283417_-32, 0, 0, 32, 32, 32,32);
-        }
+	@Inject(at = @At(value = "INVOKE", target = "Lnet/minecraft/client/gui/GuiGraphics;drawManaged(Ljava/lang/Runnable;)V"), method = "renderTooltipInternal(Lnet/minecraft/client/gui/Font;Ljava/util/List;IILnet/minecraft/client/gui/screens/inventory/tooltip/ClientTooltipPositioner;)V", cancellable = true)
+	public void moonstone$ClientTooltipPositioner(Font p_282675_, List<ClientTooltipComponent> p_282615_, int p_283230_, int p_283417_, ClientTooltipPositioner p_282442_, CallbackInfo ci) {
+		if (tooltipStack.getItem() instanceof Industry) {
+			GuiGraphics guiGraphics = (GuiGraphics) (Object) this;
+			guiGraphics.blit(new ResourceLocation(MoonstoneMod.MODID, "textures/glint/the_glint.png"), p_283230_ - 16, p_283417_ - 32, 0, 0, 32, 32, 32, 32);
+		}
 
-        if (tooltipStack.getItem() instanceof necora ||
-                tooltipStack.getItem() instanceof TheNecoraIC ||
-                tooltipStack.getItem() instanceof apple ||
-                tooltipStack.getItem() instanceof medIC
-        ) {
-            GuiGraphics guiGraphics = (GuiGraphics)(Object) this;
+		if (tooltipStack.getItem() instanceof necora ||
+				tooltipStack.getItem() instanceof TheNecoraIC ||
+				tooltipStack.getItem() instanceof apple ||
+				tooltipStack.getItem() instanceof medIC
+		) {
+			GuiGraphics guiGraphics = (GuiGraphics) (Object) this;
 
-            guiGraphics.blit(new ResourceLocation(MoonstoneMod.MODID, "textures/glint/necora.png"),p_283230_ - 16,p_283417_-32, 0, 0, 32, 32, 32,32);
+			guiGraphics.blit(new ResourceLocation(MoonstoneMod.MODID, "textures/glint/necora.png"), p_283230_ - 16, p_283417_ - 32, 0, 0, 32, 32, 32, 32);
 
-        }
-    }
+		}
+	}
 
 }

@@ -1,7 +1,7 @@
 package com.moonstone.moonstonemod.mixin;
 
-import com.moonstone.moonstonemod.Handler;
-import com.moonstone.moonstonemod.InIt;
+import com.moonstone.moonstonemod.compat.CuriosHandler;
+import com.moonstone.moonstonemod.init.Init;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.Container;
 import net.minecraft.world.entity.player.Player;
@@ -22,46 +22,55 @@ import java.util.List;
 
 @Mixin(EnchantmentMenu.class)
 public abstract class EnchantmentMenuMixin {
-    @Shadow
-    protected abstract List<EnchantmentInstance> getEnchantmentList(ItemStack p_39472_, int p_39473_, int p_39474_);
+	@Shadow
+	protected abstract List<EnchantmentInstance> getEnchantmentList(ItemStack p_39472_, int p_39473_, int p_39474_);
 
-    @Shadow
-    @Final
-    private Container enchantSlots;
+	@Shadow
+	@Final
+	private Container enchantSlots;
 
-    @Shadow
-    @Final
-    public int[] costs;
-    @Shadow @Final public int[] levelClue;
-    @Shadow @Final private RandomSource random;
+	@Shadow
+	@Final
+	public int[] costs;
+	@Shadow
+	@Final
+	public int[] levelClue;
+	@Shadow
+	@Final
+	private RandomSource random;
 
-    @Shadow @Final private ContainerLevelAccess access;
+	@Shadow
+	@Final
+	private ContainerLevelAccess access;
 
-    @Shadow @Final private DataSlot enchantmentSeed;
+	@Shadow
+	@Final
+	private DataSlot enchantmentSeed;
 
-    @Shadow public abstract void slotsChanged(Container p_39461_);
+	@Shadow
+	public abstract void slotsChanged(Container p_39461_);
 
-    @Inject(at = @At("HEAD"), method = "clickMenuButton", cancellable = true)
-    public void moonstone$clickMenuButton(Player p_39465_, int p_39466_, CallbackInfoReturnable<Boolean> cir) {
-        ItemStack itemstack = enchantSlots.getItem(0);
-        Player player = p_39465_;
-        if (Handler.hascurio(player, InIt.ragepear.get())) {
-            if (!(itemstack.getItem() instanceof BookItem)) {
-                EnchantmentMenu container = (EnchantmentMenu) (Object) this;
-                access.execute((level, pos) -> {
-                    List<EnchantmentInstance> rolledEnchantments = getEnchantmentList(itemstack, p_39466_, container.costs[p_39466_]);
-                    player.onEnchantmentPerformed(itemstack, p_39466_ + 1);
-                    for (EnchantmentInstance data : rolledEnchantments) {
-                        itemstack.enchant(data.enchantment, data.level + 3);
-                        enchantSlots.setChanged();
-                        enchantmentSeed.set(player.getEnchantmentSeed());
-                        slotsChanged(enchantSlots);
+	@Inject(at = @At("HEAD"), method = "clickMenuButton", cancellable = true)
+	public void moonstone$clickMenuButton(Player p_39465_, int p_39466_, CallbackInfoReturnable<Boolean> cir) {
+		ItemStack itemstack = enchantSlots.getItem(0);
+		Player player = p_39465_;
+		if (CuriosHandler.hascurio(player, Init.ragepear.get())) {
+			if (!(itemstack.getItem() instanceof BookItem)) {
+				EnchantmentMenu container = (EnchantmentMenu) (Object) this;
+				access.execute((level, pos) -> {
+					List<EnchantmentInstance> rolledEnchantments = getEnchantmentList(itemstack, p_39466_, container.costs[p_39466_]);
+					player.onEnchantmentPerformed(itemstack, p_39466_ + 1);
+					for (EnchantmentInstance data : rolledEnchantments) {
+						itemstack.enchant(data.enchantment, data.level + 3);
+						enchantSlots.setChanged();
+						enchantmentSeed.set(player.getEnchantmentSeed());
+						slotsChanged(enchantSlots);
 
-                    }
-                });
-            }
+					}
+				});
+			}
 
-        }
+		}
 
-    }
+	}
 }
